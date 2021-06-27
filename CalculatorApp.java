@@ -9,4 +9,9 @@ public class CalculatorApp{
 		return a+b;
 	}
 
+	//added feature multiplication in feature/mul branch
+	public int mulFromFeatureMul(int a, int b){
+		return a*b;
+	}
+
 }
