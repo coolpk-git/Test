@@ -14,4 +14,10 @@ public class CalculatorApp{
 		return a*b;
 	}
 
+	//added feature division in feature/division branch
+	public int divFromFeatureDiv(int a, int b){
+		return a/b;
+	}
+
+
 }
